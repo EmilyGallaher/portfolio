@@ -79,6 +79,9 @@ p {
 .project-desciption {
     padding: 0 20px;
 }
+.nav-logo   {
+    border: none;
+}
 
 @media (max-width: 900px) {
     h1 {
