@@ -143,6 +143,7 @@ h1.mb-5 {
 .contact-container  {
     padding: 60px 20px;
     margin: 20px;  
+    display: flex;
 }
 nav li {
     
