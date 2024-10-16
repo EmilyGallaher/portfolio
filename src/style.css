@@ -22,7 +22,7 @@ h6 {
 img {
     border: 2px solid #D3D3D3;
 }
-.contact-me-pic     {
+.contact-container img   {
     display: flex;
     max-width: 450px;
 }
