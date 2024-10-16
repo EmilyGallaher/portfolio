@@ -115,6 +115,7 @@ img {
 .about-container    {
     text-align: center;
     padding: 160px 20px;
+    margin-left: 20px;
 }
 h1.mb-5 {
     font-size: 64px;
