@@ -134,6 +134,7 @@ h1.mb-5 {
 .contact-heading    {
     font-size: 64px;
     text-align: left;
+    padding-bottom: 30px;
 }
 .contact-container  {
     padding: 60px 20px;
