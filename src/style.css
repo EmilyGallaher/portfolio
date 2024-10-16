@@ -157,6 +157,9 @@ footer .contact-box {
     padding: 30px 120px;
     border-radius: 10px;
 }
+.png    {
+    border-radius: 1px grey solid;
+}
 h4  {
     font-size: 48px;
 }
